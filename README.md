@@ -8,8 +8,6 @@ You need just one click to open and login VmWorkstation. It is easy as like as y
 ### Dependencies
 [![Python 3.7.3](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Generic badge](https://img.shields.io/badge/pywinauto-latest-blue.svg)](https://pywinauto.readthedocs.io/en/latest/)
-[![Generic badge](https://img.shields.io/badge/pyperclip-latest-blue.svg)](https://pypi.org/project/pyperclip/)
-[![Generic badge](https://img.shields.io/badge/pyautogui-latest-blue.svg)](https://pyautogui.readthedocs.io/en/latest/)
 
 # Get Started
 - If you want to just use it, use the [![Generic badge](https://img.shields.io/badge/release-latest-blue.svg)](https://github.com/ericserafim/RobotNight-VmStarter/releases/latest) to download the latest version
